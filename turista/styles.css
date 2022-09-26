@@ -1,0 +1,56 @@
+body, html{
+    padding: 0;
+    margin: 0; 
+}
+.titulo{
+    width: 100%;
+    height: 60px;
+    position: fixed;
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    color:#fff;
+
+}
+
+main{
+    padding:300px
+}
+
+h1 {
+    color: black;
+}
+.box1 {
+    background-color:brown ;
+     border-radius: 10px; /*arredonda os cantos*/
+    padding: 10px;
+    margin:10px
+    c
+    
+
+}
+
+body {
+
+    background-color: ivory;
+    
+    text-align: center;
+    font-family: 'Poppins';
+}
+
+ul.menu_vertical {
+	margin: 0;
+	padding-top: 80px;
+	list-style: none;
+}
+ul.menu_vertical li a{ 
+	display: block;
+	padding: 10px;
+	color: #333;
+	background: #eee;
+	border-bottom: 1px solid #fff;
+	text-decoration: none;
+}
+ul.menu_vertical li a:hover {
+	background: #ccc;
+}
